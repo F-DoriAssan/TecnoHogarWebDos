@@ -23,7 +23,7 @@ Instalar sequelize
     Ver si se realizaron las migraciones en phpmyAdmin
 
 Si seguiste paso a paso podemos arrancar nuestro servidor!!
-    npm run start
+    npm start
 
 Si no funciono elimina el modulo node y el package json
     rm -rf node_modules
